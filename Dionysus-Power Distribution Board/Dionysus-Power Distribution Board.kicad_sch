@@ -1,5 +1,89 @@
 (kicad_sch (version 20230121) (generator eeschema)
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (uuid abe21820-8071-4530-921a-b389cdc1b29d)
+
+  (paper "B")
+
+  (title_block
+    (title "Power Distribution Board, Dionysus")
+    (rev "alpha")
+    (comment 1 "J. LENDI")
+    (comment 2 "PROTOTYPE - ALPHA")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 38.1 25.4) (size 38.1 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2759e5b0-def9-4dcc-8ba2-817722669c3b)
+    (property "Sheetname" "Power Management Controller" (at 38.1 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Power Management Controller.kicad_sch.kicad_sch" (at 38.1 38.6846 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "Dionysus-Power Distribution Board"
+        (path "/abe21820-8071-4530-921a-b389cdc1b29d" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 38.1 50.8) (size 38.1 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 28002f7a-36c4-4e8b-baac-1cce0829c1f1)
+    (property "Sheetname" "Pulse Width Modulation Controller" (at 38.1 50.0884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Pulse Width Modulation Controller.kicad_sch" (at 38.1 64.0846 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "Dionysus-Power Distribution Board"
+        (path "/abe21820-8071-4530-921a-b389cdc1b29d" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 38.1 76.2) (size 38.1 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a33f6791-43a7-4614-aede-e6d68e9ceab5)
+    (property "Sheetname" "GPIO" (at 38.1 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "GPIO.kicad_sch" (at 38.1 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "Dionysus-Power Distribution Board"
+        (path "/abe21820-8071-4530-921a-b389cdc1b29d" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 38.1 101.6) (size 38.1 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid fa855fc3-9de6-4d58-8a45-763687d9994d)
+    (property "Sheetname" "System Sensor" (at 38.1 100.8884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "System Sensor.kicad_sch" (at 38.1 114.8846 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "Dionysus-Power Distribution Board"
+        (path "/abe21820-8071-4530-921a-b389cdc1b29d" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
