@@ -232,7 +232,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "error",
+      "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "error",
@@ -324,23 +324,23 @@
   },
   "sheets": [
     [
-      "abe21820-8071-4530-921a-b389cdc1b29d",
+      "348c5b44-eb44-4a1f-9b5c-5ed28bc510c5",
       ""
     ],
     [
-      "2759e5b0-def9-4dcc-8ba2-817722669c3b",
+      "66c1656d-4844-4b70-8e6e-4bc46d778c91",
       "Power Management Controller"
     ],
     [
-      "28002f7a-36c4-4e8b-baac-1cce0829c1f1",
+      "10c74586-466f-47dd-8e22-4257d39d95ed",
       "Pulse Width Modulation Controller"
     ],
     [
-      "fa855fc3-9de6-4d58-8a45-763687d9994d",
+      "5b32c007-974d-4010-9a4b-64f8e1889522",
       "System Sensor"
     ],
     [
-      "a33f6791-43a7-4614-aede-e6d68e9ceab5",
+      "59691aa4-c9af-4749-a737-f4c86180b625",
       "GPIO"
     ]
   ],

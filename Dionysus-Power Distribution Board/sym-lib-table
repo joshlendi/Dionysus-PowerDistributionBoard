@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Converter_DCDC_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/Converter_DCDC_jal.kicad_sym")(options "")(descr ""))
+  (lib (name "Driver_LED_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/Driver_LED_jal.kicad_sym")(options "")(descr ""))
+  (lib (name "Driver_Load_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/Driver_Load_jal.kicad_sym")(options "")(descr ""))
+  (lib (name "Isolator_Digital_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/Isolator_Digital_jal.kicad_sym")(options "")(descr ""))
+  (lib (name "Logic_Buffer_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/Logic_Buffer_jal.kicad_sym")(options "")(descr ""))
+  (lib (name "Microcontroller_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/Microcontroller_jal.kicad_sym")(options "")(descr ""))
+  (lib (name "Regulator_Linear_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/Regulator_Linear_jal.kicad_sym")(options "")(descr ""))
+  (lib (name "Sensor_AtlasScientific_EZO_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/Sensor_AtlasScientific_EZO_jal.kicad_sym")(options "")(descr ""))
+  (lib (name "Transistor_FET_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/Transistor_FET_jal.kicad_sym")(options "")(descr ""))
+)
