@@ -9,4 +9,5 @@
   (lib (name "Regulator_Linear_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/Regulator_Linear_jal.kicad_sym")(options "")(descr ""))
   (lib (name "Sensor_AtlasScientific_EZO_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/Sensor_AtlasScientific_EZO_jal.kicad_sym")(options "")(descr ""))
   (lib (name "Transistor_FET_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/Transistor_FET_jal.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_Module_jal")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/MCU_Module_jal.kicad_sym")(options "")(descr ""))
 )
