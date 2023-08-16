@@ -1,4 +1,33 @@
-<mxfile host="Electron" modified="2023-08-14T22:38:01.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="FrBa_YyUf2zGye3ggXu9" version="21.6.8" type="device" pages="4">
+<mxfile host="Electron" modified="2023-08-16T22:33:12.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="rTsfkdNYljthcdcfxy9k" version="21.6.8" type="device" pages="5">
+  <diagram id="RhSl5BYkCWO1H26zg4_b" name="Hardware Sketch">
+    <mxGraphModel dx="1544" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mlnEMk5v6XUhwnT-XgCQ-1" value="Power Management Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlnEMk5v6XUhwnT-XgCQ-2" value="Microcontroller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlnEMk5v6XUhwnT-XgCQ-3" value="LED Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlnEMk5v6XUhwnT-XgCQ-4" value="System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8tw7V5T3yUHRr_MaZ5N-1" value="General Purpose Input/Output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8tw7V5T3yUHRr_MaZ5N-2" value="Nutrient Control System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSljiTtHZGkkeHcPX1qU-1" value="Sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="iHNZMsCqCjlTGF7xu6c1" name="Board Layout">
     <mxGraphModel dx="1544" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -22,7 +51,7 @@
         <mxCell id="irSMn220mWJREhbJE6fb-9" value="Grow Lights" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="700" width="440" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="a-74LHthYuNclVVVjiZe-1" value="Nutrient Control System" style="swimlane;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="a-74LHthYuNclVVVjiZe-1" value="Nutrient Control System" style="swimlane;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="330" y="10" width="440" height="140" as="geometry" />
         </mxCell>
       </root>
